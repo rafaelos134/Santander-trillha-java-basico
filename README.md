@@ -1,2 +1,2 @@
-# dio-trillha-java-basico
-estudo basico de java pelo curso Dio.me
+# Santander-trillha-java-basico
+estudo basico de java pelo bootcamp santander
